@@ -4,3 +4,6 @@
 [submodule "openerp-openbpm-engine-community"]
 	path = openerp-openbpm-engine-community
 	url = git@github.com:nikskul/openerp-openbpm-engine-community.git
+[submodule "openerp-bpmn"]
+	path = openerp-bpmn
+	url = git@github.com:nikskul/openerp-bpmn.git
