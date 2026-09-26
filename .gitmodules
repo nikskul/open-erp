@@ -1,0 +1,3 @@
+[submodule "openerp-docs"]
+	path = openerp-docs
+	url = git@github.com:nikskul/openerp-mkdocs.git
